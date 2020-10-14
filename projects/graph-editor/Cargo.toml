@@ -1,11 +1,10 @@
 [package]
-name = "sub_projects"
-publish = false
+name = "graph-editor"
 version = "0.0.0"
 authors = ["Aster <192607617@qq.com>"]
-description = "..."
-repository = "https://github.com/oovm/sub_projects"
-documentation = "https://docs.rs/sub_projects"
+description = "Draw graph online"
+repository = "https://github.com/oovm/graph-editor"
+documentation = "https://docs.rs/graph-editor"
 readme = "Readme.md"
 license = "MPL-2.0"
 edition = "2021"
